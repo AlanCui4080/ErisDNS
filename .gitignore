@@ -2,5 +2,9 @@
 build
 build_dbg
 build_fuzz
+build_fuzz_cov
 
 .opencode.sh
+
+fuzz_corpus
+fuzz_artifacts
