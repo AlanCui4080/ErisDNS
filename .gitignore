@@ -1,0 +1,6 @@
+.cache
+build
+build_dbg
+build_fuzz
+
+.opencode.sh
